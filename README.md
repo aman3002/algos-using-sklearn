@@ -26,3 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman3002&show_icons=true&locale=en" alt="aman3002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman3002&" alt="aman3002" /></p>
+
+
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/amangarg3002?theme=dark)
