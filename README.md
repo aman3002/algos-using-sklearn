@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Aman Garg</h1>
 <h3 align="center">A passionate machine learning engineer and data scientist from India</h3>
 
@@ -25,14 +26,14 @@
 <br>
 <br><br><br>
 
+
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aman3002)](https://git.io/streak-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman3002&show_icons=true&locale=en" alt="aman3002" /></p>
 
 
 
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman3002&show_icons=true)
 
 
 
