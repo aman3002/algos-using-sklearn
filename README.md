@@ -25,8 +25,7 @@
 <br>
 <br><br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aman3002&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aman3002)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman3002&show_icons=true&locale=en" alt="aman3002" /></p>
 
 
